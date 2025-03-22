@@ -4,5 +4,6 @@ services:
     name: financial-analysis-app
     env: python
     buildCommand: "pip install -r requirements.txt"
-    startCommand: "python app.py"
+    startCommand: "gunicorn app:app" gunicorn app:app
+
     plan: free
