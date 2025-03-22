@@ -1,21 +1,4 @@
 Flask==2.3.3
 pandas==2.1.0
-numpy==1.24.4
-Werkzeug==2.3.7
-Jinja2==3.1.2
-MarkupSafe==2.1.3
-itsdangerous==2.1.2
-click==8.1.7
-pytz==2023.3
-python-dateutil==2.8.2
-six==1.16.0
-# requirements.txt (add these)
-reportlab==4.0.4
-Pillow==10.0.0
-openpyxl==3.1.2 
-xlrd==2.0.1      # For older Excel formats
-python-dateutil==2.8.2
 matplotlib==3.7.1
 gunicorn==21.2.0
-seaborn==0.12.2
-
