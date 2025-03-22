@@ -17,3 +17,5 @@ xlrd==2.0.1      # For older Excel formats
 python-dateutil==2.8.2
 matplotlib==3.7.1
 gunicorn==21.2.0
+seaborn==0.12.2
+
